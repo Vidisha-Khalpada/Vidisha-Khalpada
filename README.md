@@ -14,7 +14,7 @@
     
 👯 Looking forward to collaborate on Full Stack Projects.
 
-📫 How to reach me: <a href="www.linkedin.com/in/vidisha-khalpada-748740184">Linked In</a>
+📫 How to reach me: <a href="https://linkedin.com/in/vidisha-khalpada-748740184">Linked In</a>
 
 😄 For more details, visit my Portfolio: <a href="https://vidisha-khalpada-portfolio-draft.netlify.app/">Vidisha's Portfolio</a>
 </h4>
