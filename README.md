@@ -1,4 +1,7 @@
-<h2>Hi, I am Vidisha Khalpada👋
+  <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" /> 
+ <h2>Hi, I am Vidisha Khalpada</h2> 
+
+
 <h4>An aspiring Full Stack Web Developer turned from a Transportation Engineer with prerequisite knowledge in MERN Stack. <br/>
  An active, punctual, willing and deterministic team player who loves writing codes and developing the websites using MERN Tech Stack. Looking forward to contribute to the best of knowledge and skills along with the enhancements to cherish down the road.<br/></h4>
 
