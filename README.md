@@ -16,7 +16,7 @@
 
 📫 How to reach me: <a href="https://linkedin.com/in/vidisha-khalpada-748740184">Linked In</a>
 
-😄 For more details, visit my Portfolio: <a href="https://vidisha-khalpada-portfolio-draft.netlify.app/">Vidisha's Portfolio</a>
+😄 For more details, visit my Portfolio: <a href="https://vidisha-khalpada-profile.vercel.app/">Vidisha's Portfolio</a>
 </h4>
     
 <h3><ins>Tech Stacks:</h3>
