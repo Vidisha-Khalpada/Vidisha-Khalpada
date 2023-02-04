@@ -12,7 +12,7 @@
     <li>🌱 My Collaborative Projects:</li><br/>
 
 &emsp;<img width=1.5% src="https://cdn-icons-png.flaticon.com/512/2683/2683274.png" />    <a href="https://clone-asos.netlify.app/">ASOS</a><br/>
-&emsp;<img width=1.5% src="https://cdn-icons-png.flaticon.com/512/2683/2683274.png" />    <a href="https://bookmyshowclone-9.netlify.app/">BOOK MY SHOW</a><br/>
+&emsp;<img width=1.5% src="https://cdn-icons-png.flaticon.com/512/2683/2683274.png" />    <a href="https://clone-book-my-show.netlify.app/">BOOK MY SHOW</a><br/>
 &emsp;<img width=1.5% src="https://cdn-icons-png.flaticon.com/512/2683/2683274.png" />    <a href="https://policy-bazaar-clone.vercel.app/">POLICY BAZAAR</a>
     <li>👯 Looking forward to collaborate on Full Stack Applications and Projects.</li><br/>
     <li>📫 How to reach me: <a href="https://linkedin.com/in/vidisha-khalpada-748740184">Linked In</a></li><br/>
